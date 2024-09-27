@@ -14,7 +14,7 @@
     <test thread-count="5" name="Error validation Test">
     <classes>
     
-      <class name="rahulshettyacademy.tests.ErrorValidationTest"/>
+      <class name="rahulshettyacademy.tests.ErrorValidationTest.java"/>
       
     </classes>
   </test> <!-- Test -->
