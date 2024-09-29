@@ -16,6 +16,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 
 public class StandAloneTest {
+	//new comment
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
